@@ -43,10 +43,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Snow761 /Snow761 /output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Snow761 /Snow761 /output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Snow761 /Snow761 /output/pacman-contribution-graph.svg">
-</picture>
-
-###
+  ###
 
 <img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyZGFtZXltZnJlbWZmMGgwYmV5YmJtcXZ2YmloM2RkbjY5cWRtMWdqZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WiM5K1e9MtEic/giphy.gif"  />
 
